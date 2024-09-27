@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Venv or virtual environment directories
+venv/
+.env/
+.venv/
+env/
+.env
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Vercel local env config
+.vercel/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Cache directories
+.cache/
+*.history
+
+# OS generated files
+.DS_Store
+*.swp
+*.swo
